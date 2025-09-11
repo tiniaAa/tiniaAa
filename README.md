@@ -49,7 +49,9 @@
 
 ## 😎 Connect with me
 <p align="left">  
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://github.com/tiniaAa" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+
+
 </p>
 <br>
 
